@@ -32,6 +32,9 @@ int main() {
 ```
 
 ## Result
+
+In the implementation of the PID controller in the autonomous vehicle driving simulator in Carla Simulator, it is possible to achieve precise control over the vehicle's behavior during simulation. By using the PID controller, it is possible to track and correct the vehicle's trajectory in real-time, which is crucial for safe and efficient autonomous driving. The PID controller allows for dynamic adjustment of the vehicle's speed and direction based on current sensor data, enabling adaptation to changing road conditions. As a result, utilizing the PID controller in Carla Simulator provides a more realistic and smooth simulation experience, facilitating the testing and optimization of control algorithms for autonomous vehicles. Here are the results:
+
 ### Plot 1 
 ![Tekst zastępczy](plot1.png)
 
